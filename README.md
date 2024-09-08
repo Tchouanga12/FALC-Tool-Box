@@ -1,4 +1,7 @@
-# FALC-Tool-Box
-In this work, we create a tool box to translate from French to FALC (Facile A Lire et Comprendre) i.e. easy to read and understand. FALC makes information simpler and clearer and is therefore useful to everyone, including people with disabilities, dyslexia, the elderly, and people with poor knowledge of the French language. 
+# FALC Tool Box
 
-Link to article documentation: https://www.researchgate.net/publication/363780793_CONSTRUCTION_OF_A_TRANSLATION_TOOL_FROM_FRENCH_TO_FALC
+The **FALC Tool Box** is a translation toolkit specifically designed to convert French text into **FALC (Facile à Lire et à Comprendre)**, or "Easy to Read and Understand" French. FALC simplifies complex information, making it more accessible to everyone, including people with cognitive disabilities, dyslexia, the elderly, or individuals with limited proficiency in French. The tool is developed to promote inclusivity by enabling clear, concise, and easily understandable communication.
+
+By breaking down linguistic barriers, the FALC Tool Box empowers individuals to better engage with written content, ensuring equitable access to information for all.
+
+For more details about the research and methodology behind the FALC Tool Box, please refer to our published article: [Construction of a Translation Tool from French to FALC](https://www.researchgate.net/publication/363780793_CONSTRUCTION_OF_A_TRANSLATION_TOOL_FROM_FRENCH_TO_FALC).
