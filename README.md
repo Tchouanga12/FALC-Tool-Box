@@ -6,6 +6,7 @@ By breaking down linguistic barriers, the FALC Tool Box empowers individuals to 
 
 For more details about the research and methodology behind the FALC Tool Box, please refer to our published article: [Construction of a Translation Tool from French to FALC](https://www.researchgate.net/publication/363780793_CONSTRUCTION_OF_A_TRANSLATION_TOOL_FROM_FRENCH_TO_FALC).
 
+
 ## Installation
 
 To install the FALC Tool Box, you will need Python 3.x and `pip` installed. Follow these instructions to set it up:
