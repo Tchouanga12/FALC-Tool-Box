@@ -1,3 +1,5 @@
+[![Python version](https://img.shields.io/badge/python-3.7%2B-brightgreen.svg)](https://www.python.org/downloads/)
+
 # FALC Tool Box
 
 The **FALC Tool Box** is a translation toolkit specifically designed to convert French text into **FALC (Facile à Lire et à Comprendre)**, or "Easy to Read and Understand" French. FALC simplifies complex information, making it more accessible to everyone, including people with cognitive disabilities, dyslexia, the elderly, or individuals with limited proficiency in French. The tool is developed to promote inclusivity by enabling clear, concise, and easily understandable communication.
